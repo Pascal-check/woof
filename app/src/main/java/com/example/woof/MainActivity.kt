@@ -127,7 +127,8 @@ fun DogItem(
  * Composable that displays a photo of a dog.
  *
  * @param dogIcon is the resource ID for the image of the dog
- * @param modifier modifiers to set to this composable
+ * @param modifier
+ * modifiers to set to this composable
  */
 @Composable
 fun DogIcon(
